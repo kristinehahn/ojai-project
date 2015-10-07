@@ -8,5 +8,15 @@
     <artifactId>ojai-101</artifactId>
     <version>0.1-DOCS</version>
 
+    <dependencies>
+
+        <dependency>
+            <groupId>com.mapr.db</groupId>
+            <artifactId>maprdb</artifactId>
+            <version>5.0.9-mapr</version>
+        </dependency>
+
+
+    </dependencies>
 
 </project>
