@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.mapr.db:maprdb:5.1.0-mapr-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/db/maprdb/5.1.0-mapr-SNAPSHOT/maprdb-5.1.0-mapr-20151117.221238-379.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/db/maprdb/5.1.0-mapr-SNAPSHOT/maprdb-5.1.0-mapr-20160125.135005-1291.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/db/maprdb/5.1.0-mapr-SNAPSHOT/maprdb-5.1.0-mapr-20151117.221238-379-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/db/maprdb/5.1.0-mapr-SNAPSHOT/maprdb-5.1.0-mapr-20160125.135005-1291-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/db/maprdb/5.1.0-mapr-SNAPSHOT/maprdb-5.1.0-mapr-20151117.221238-379-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/db/maprdb/5.1.0-mapr-SNAPSHOT/maprdb-5.1.0-mapr-20160125.135005-1291-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

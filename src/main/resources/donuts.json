@@ -109,22 +109,23 @@
   ]
 }
 {
-  "id": "0005",
-  "type": "donut",
-  "name": "Apple Fritter",
-  "ppu": 1.00,
-  "sales": 700,
+"id": "0005",
+"type": "donut",
+"name": "Apple Fritter",
+"ppu": 1.00,
+"sales": 700,
 
 
-  "batters":
-  {
-    "batter":
-    [
-      { "id": "1001", "type": "Regular" }
-    ]
-  },
-  "topping":
-  [
-    { "id": "5002", "type": "Glazed" }
-  ]
+"batters":
+{
+"batter":
+[
+{ "id": "1001", "type": "Regular" }
+]
+},
+"topping":
+[
+{ "id": "5002", "type": "Glazed" }
+]
 }
+

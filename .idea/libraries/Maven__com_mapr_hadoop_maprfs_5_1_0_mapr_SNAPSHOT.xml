@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.mapr.hadoop:maprfs:5.1.0-mapr-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/hadoop/maprfs/5.1.0-mapr-SNAPSHOT/maprfs-5.1.0-mapr-20151117.220847-647.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/hadoop/maprfs/5.1.0-mapr-SNAPSHOT/maprfs-5.1.0-mapr-20160125.142414-2860.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/hadoop/maprfs/5.1.0-mapr-SNAPSHOT/maprfs-5.1.0-mapr-20151117.220847-647-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/hadoop/maprfs/5.1.0-mapr-SNAPSHOT/maprfs-5.1.0-mapr-20160125.142414-2860-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/hadoop/maprfs/5.1.0-mapr-SNAPSHOT/maprfs-5.1.0-mapr-20151117.220847-647-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/mapr/hadoop/maprfs/5.1.0-mapr-SNAPSHOT/maprfs-5.1.0-mapr-20160125.142414-2860-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

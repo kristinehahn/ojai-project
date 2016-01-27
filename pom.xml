@@ -31,7 +31,7 @@
         <dependency>
             <groupId>com.mapr.db</groupId>
             <artifactId>maprdb</artifactId>
-            <version>5.0.9-mapr</version>
+            <version>5.1.0-mapr-SNAPSHOT</version>
         </dependency>
 
 

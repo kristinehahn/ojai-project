@@ -4,14 +4,12 @@ package com.docsamples.ojai.samples;
  * Created by khahn on 10/11/15.
  */
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.sql.Date;
 import java.util.ArrayList;
 import java.util.List;
 
-@JsonIgnoreProperties(ignoreUnknown = true)
+
 public class User {
 
     private String id;
@@ -23,7 +21,6 @@ public class User {
     public User() {
     }
 
-    @JsonProperty("_id")
     public String getId() {
         return id;
     }
@@ -32,7 +29,6 @@ public class User {
         this.id = id;
     }
 
-    @JsonProperty("first_name")
     public String getFirstName() {
         return firstName;
     }
@@ -41,7 +37,6 @@ public class User {
         this.firstName = firstName;
     }
 
-    @JsonProperty("last_name")
     public String getLastName() {
         return lastName;
     }
