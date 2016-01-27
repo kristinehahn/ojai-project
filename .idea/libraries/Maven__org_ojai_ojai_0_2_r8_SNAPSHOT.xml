@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.ojai:ojai:0.2.r8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ojai/ojai/0.2.r8-SNAPSHOT/ojai-0.2.r8-20160119.212739-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ojai/ojai/0.2.r8-SNAPSHOT/ojai-0.2.r8-20160119.212739-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ojai/ojai/0.2.r8-SNAPSHOT/ojai-0.2.r8-20160119.212739-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
